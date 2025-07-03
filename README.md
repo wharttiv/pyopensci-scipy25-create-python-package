@@ -11,7 +11,7 @@ You will need a GitHub and a testPyPi account to follow along.
 
 ## GitHub Codespaces
 
-We have GitHub Codespaces configured for this workshop. TO be successful during 
+We have GitHub Codespaces configured for this workshop. To be successful during 
 the workshop, we suggest that you fork and open a codespace prior to attending
 the workshop to ensure things load. The link above provides you with instructions 
 one how to do this and how to setup the accounts you need for the workshop.
