@@ -28,6 +28,9 @@
 			"version": "0.7.19"
 		},
 	},
+	"extensions": [
+		"ms-vscode.live-server",
+	]
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
